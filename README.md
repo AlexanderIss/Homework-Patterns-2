@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/AlexanderIss/Homework-Patterns-2/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/AlexanderIss/Homework-Patterns-2/actions/workflows/gradle-publish.yml)
